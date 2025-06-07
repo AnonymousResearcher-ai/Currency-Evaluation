@@ -43,7 +43,6 @@ You can recreate the virtual environment using:
 ```bash
 python -m venv dmp
 source dmp/bin/activate
-pip install -r requirements.txt
 ```
 
 ## Usage
