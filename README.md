@@ -28,6 +28,14 @@ All modules are implemented in Jupyter notebooks and organized for reproducibili
 ├── README.md
 ```
 
+## Result Summary
+### Classification Results
+![Currency Recognition Output](results/classification_results.png)
+### Usability Results
+![Currency Recognition Output](results/usability_results.png)
+### Counterfeit Results
+![Currency Recognition Output](results/fake_currency_results.png)
+
 ## Datasets
 Dataset details are provided in the paper.
 
